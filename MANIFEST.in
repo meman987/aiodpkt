@@ -1,5 +1,5 @@
 
-include AUTHORS CHANGES README.rst LICENSE
+include AUTHORS.dpkt CHANGES README.rst LICENSE.dpkt
 
 recursive-include docs *
 prune docs/_build
